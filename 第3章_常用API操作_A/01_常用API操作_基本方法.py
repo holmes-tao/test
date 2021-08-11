@@ -1,4 +1,3 @@
-"""2020/09/29"""
 from selenium import webdriver
 from time import sleep
 
